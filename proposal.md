@@ -5,10 +5,8 @@ Proposal for Co-Location with ASPLOS 2017
 
 ## Organizers
 
-Luis Ceze, University of Washington
-Hadi Esmailzadeh, Georgia Tech
-Adrian Sampson, Microsoft Research and Cornell
-Ben Zorn, Microsoft Research
+- Luis Ceze, University of Washington
+- Adrian Sampson, Cornell University
 
 
 ## Logistics
