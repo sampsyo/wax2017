@@ -7,6 +7,8 @@ Proposal for Co-Location with ASPLOS 2017
 - Luis Ceze, University of Washington
 - Adrian Sampson, Cornell University
 
+We also plan to enlist 1--3 other organizers to help out.
+
 
 ## Logistics
 
