@@ -1,5 +1,4 @@
 # WAX: Workshop on Approximate Computing Across the Stack
-
 Proposal for Co-Location with ASPLOS 2017
 
 
