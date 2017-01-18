@@ -82,9 +82,14 @@ TK
 
 ### Organization
 
-The organizers are:
+The WAX steering committee is:
 
-TK
+* [Michael Carbin](http://people.csail.mit.edu/mcarbin/), MIT
+* [Luis Ceze](https://homes.cs.washington.edu/~luisceze/), University of Washington
+* [Hadi Esmaeilzadeh](http://www.cc.gatech.edu/~hadi/), Georgia Tech
+* [Kathryn S McKinley](https://www.microsoft.com/en-us/research/people/mckinley), Microsoft Research
+* [Sasa Misailovic](http://misailo.web.engr.illinois.edu), University of Illinois at Urbana--Champaign
+* [Adrian Sampson](http://www.cs.cornell.edu/~asampson/), Cornell
 
 You can contact the organizers at TK.
 
