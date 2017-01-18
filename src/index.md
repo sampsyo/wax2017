@@ -17,10 +17,10 @@ You can submit peer-reviewed position papers, lightning talks, and discussion to
 
 We're still finalizing the timeline, but here are the tentative dates:
 
-* February 15, 2016: position papers due
-* February 29, 2016: notification for position papers
-* March 16, 2016: lightning-talk slides and discussion topics due
-* April 3, 2016: workshop day
+* February 20, 2017: position papers due
+* March 6, 2017: notification for position papers
+* March 20, 2017: lightning-talk slides and discussion topics due
+* April 9, 2017: workshop day
 
 Previous instances:
 
