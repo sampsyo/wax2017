@@ -24,7 +24,7 @@ Previous instances:
 * [APPROX 2014][], at PLDI
 
 [wax 2016]: http://approximate.computer/wax2016/
-[asplos 2017]: TK
+[asplos 2017]: http://novel.ict.ac.cn/ASPLOS2017/
 [wax 2015]: http://sampa.cs.washington.edu/new/wax2015/
 [wacas 2014]: http://sampa.cs.washington.edu/new/wacas14/
 [approx 2014]: http://approx2014.cs.umass.edu/
