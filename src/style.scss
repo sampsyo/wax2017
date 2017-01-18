@@ -2,7 +2,7 @@ $main-color: rgb(179, 27, 27);
 $disabled-color: #666;
 $exception-color: #ccc;
 $max-width: 40rem;
-$min-width: 200px;
+$min-width: 400px;
 
 
 // Layout.
@@ -12,7 +12,7 @@ body {
 
 header {
   width: 100%;
-  padding: 0.5rem 0;
+  padding: 0.5rem 0.5rem;
   nav {
     display: block;
     margin: auto;
@@ -22,6 +22,7 @@ header {
 
 main {
   margin: 1rem auto;
+  padding: 0 0.5rem;
   max-width: $max-width;
 }
 
