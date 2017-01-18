@@ -2,6 +2,7 @@ $main-color: rgb(179, 27, 27);
 $disabled-color: #666;
 $exception-color: #ccc;
 $max-width: 40rem;
+$min-width: 200px;
 
 
 // Layout.
@@ -90,28 +91,12 @@ footer {
 }
 
 
-// Schedule table.
-table {
-  border-collapse: collapse;
-  th {
-    text-align: left;
-  }
-  td, th {
-    padding: 0 0.5rem;
-  }
-}
-
-
-// Course schedule.
-.schedule {
-  .canceled {
-    background: $exception-color;
-  }
-  .event {
-    font-weight: bold;
-  }
-  .mon > td {
-    // Spacing between weeks.
-    border-top: 0.6rem solid white;
-  }
+// Illustration image.
+img.illus {
+    float: right;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    @media (max-width: $min-width) {
+        display: none;
+    }
 }

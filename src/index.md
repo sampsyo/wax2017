@@ -4,7 +4,7 @@ longtitle: "The 2017 Workshop on Approximate Computing Across the Stack"
 layout: layout.html
 order: 0
 ---
-<img src="waxlogo500.jpg" style="max-width: 167px;" class="illus">
+<img src="waxlogo500.jpg" style="max-width: 120px;" class="illus">
 
 Welcome to the 2017 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2017][].
