@@ -1,5 +1,6 @@
 ---
 title: "Call for Participation"
+layout: layout.html
 order: 1
 ---
 
@@ -96,6 +97,7 @@ WAX 2017 succeeds three previous workshops over the last two years:
 * [WACAS 2014][], at ASPLOS
 * [APPROX 2014][], at PLDI
 
+[wax 2016]: http://approximate.computer/wax2016/
 [wax 2015]: http://sampa.cs.washington.edu/new/wax2015/
 [wacas 2014]: http://sampa.cs.washington.edu/new/wacas14/
 [approx 2014]: http://approx2014.cs.umass.edu/
