@@ -15,7 +15,7 @@ You can submit peer-reviewed position papers, lightning talks, and discussion to
 
 [cfp]: cfp.html
 
-We're still finalizing the timeline, but here are the tentative dates:
+Here are the important dates:
 
 * February 20, 2017: position papers due
 * March 6, 2017: notification for position papers

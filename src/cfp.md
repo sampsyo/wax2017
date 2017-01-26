@@ -43,11 +43,10 @@ Authors are also encouraged to submit supporting material (code, data dumps, etc
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
-Submit your papers [via HotCRP][hotcrp].
+Submit your papers via HotCRP (link coming soon).
 
-[pc]: TK
+[pc]: #program-committee
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
-[hotcrp]: TK
 
 #### Lightning Talks
 
@@ -55,7 +54,7 @@ WAX will feature a session for short talks in the morning that present a single 
 
 Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
 
-Please send your slides to TK.
+Please send your slides to Adrian Sampson <asampson@cs.cornell.edu>.
 
 #### Discussion Topics
 
@@ -63,7 +62,7 @@ The WAX program will feature a debate among the attendees. We need your help bui
 
 Please submit a sentence or two about an open problem, philosophical question, or other thought you'd like to see discussed at the workshop. You can submit as many of these as you like. We'll use these suggestions to set up a debate during the workshop.
 
-Add your topic suggestions by editing [this wiki page][topics] on GitHub (TK).
+Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 [topics]: https://github.com/sampsyo/wax2017/wiki/Discussion-Topics
 
@@ -72,13 +71,14 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub (TK).
 
 Here are the important dates:
 
-TK
+* February 20, 2017: position papers due
+* March 6, 2017: notification for position papers
+* March 20, 2017: lightning-talk slides and discussion topics due
+* April 9, 2017: workshop day
 
 ### Program Committee
 
-The program committee for position papers is:
-
-TK
+TBD
 
 ### Organization
 
@@ -90,8 +90,6 @@ The WAX steering committee is:
 * [Kathryn S McKinley](https://www.cs.utexas.edu/users/mckinley/)
 * [Sasa Misailovic](http://misailo.web.engr.illinois.edu), University of Illinois at Urbana--Champaign
 * [Adrian Sampson](http://www.cs.cornell.edu/~asampson/), Cornell
-
-You can contact the organizers at TK.
 
 ### Previous Iterations
 
