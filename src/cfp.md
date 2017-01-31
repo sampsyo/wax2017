@@ -79,13 +79,14 @@ Here are the important dates:
 
 ### Program Committee
 
-* Gennady Pekhimenko, University of Toronto
-* Joshua San Miguel, University of Toronto
-* Djordje Jevdjic, University of Washington
-* Nam Sung Kim, UIUC
+* Sarita Adve, UIUC
 * Eva Darulova, Max Planck
 * Antonio Filieri, Imperial College London
 * Christopher Jermaine, Rice
+* Djordje Jevdjic, University of Washington
+* Nam Sung Kim, UIUC
+* Gennady Pekhimenko, University of Toronto
+* Joshua San Miguel, University of Toronto
 
 ### Organization
 
