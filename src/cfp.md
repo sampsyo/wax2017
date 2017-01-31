@@ -79,7 +79,13 @@ Here are the important dates:
 
 ### Program Committee
 
-TBD
+* Gennady Pekhimenko, University of Toronto
+* Joshua San Miguel, University of Toronto
+* Djordje Jevdjic, University of Washington
+* Nam Sung Kim, UIUC
+* Eva Darulova, Max Planck
+* Antonio Filieri, Imperial College London
+* Christopher Jermaine, Rice
 
 ### Organization
 
