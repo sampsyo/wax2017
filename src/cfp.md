@@ -43,8 +43,9 @@ Authors are also encouraged to submit supporting material (code, data dumps, etc
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
-Submit your papers via HotCRP (link coming soon).
+Submit your papers [via HotCRP][hotcrp].
 
+[hotcrp]: http://www.cs.cornell.edu/conferences/wax2017/
 [pc]: #program-committee
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
 
