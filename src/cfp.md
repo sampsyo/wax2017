@@ -1,7 +1,7 @@
 ---
 title: "Call for Participation"
 layout: layout.html
-order: 1
+order: 10
 ---
 
 ## Call for Participation

@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: layout.html
-order: 0
+order: 1
 ---
 # The 2017 Workshop on Approximate Computing Across the Stack
 
