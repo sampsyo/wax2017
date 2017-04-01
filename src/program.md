@@ -1,6 +1,7 @@
 ---
-title: Draft Program
+title: Program
 layout: layout.html
+order: 2
 ---
 ## WAX 2017 Program
 

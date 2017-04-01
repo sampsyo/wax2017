@@ -18,8 +18,8 @@ You can submit peer-reviewed position papers, lightning talks, and discussion to
 Here are the important dates:
 
 * <s>February 20, 2017: position papers due [via HotCRP][hotcrp]</s>
-* March 6, 2017: notification for position papers
-* March 20, 2017: lightning-talk slides and discussion topics due
+* <s>March 6, 2017: notification for position papers</s>
+* <s>March 20, 2017: lightning-talk slides and discussion topics due</s>
 * April 9, 2017: workshop day
 
 [hotcrp]: http://www.cs.cornell.edu/conferences/wax2017/
