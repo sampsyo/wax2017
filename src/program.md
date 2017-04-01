@@ -13,6 +13,8 @@ Be ready to introduce yourself!
 
 **9:15--10:00am**: Keynote
 
+[Lingjia Tang](http://www.lingjia.org), University of Michigan.
+
 **10:00am--10:15am**: Lightning talks
 
 **10:15--10:30am**: Break
