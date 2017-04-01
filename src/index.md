@@ -10,10 +10,10 @@ order: 1
 Welcome to the 2017 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2017][].
 
-See the [Call for Participation][cfp].
-You can submit peer-reviewed position papers, lightning talks, and discussion topics---or, we hope, all three.
+See the [workshop program][program] or the archived [call for participation][cfp] for more context.
 
 [cfp]: cfp.html
+[program]: program.html
 
 Here are the important dates:
 
