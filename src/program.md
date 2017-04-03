@@ -13,7 +13,8 @@ Be ready to introduce yourself!
 
 **9:15--10:00am**: Keynote
 
-[Lingjia Tang](http://www.lingjia.org), University of Michigan.
+[Lingjia Tang](http://www.lingjia.org), University of Michigan:
+"Scalable Approximation Computing: a Cross-Layer Solution."
 
 **10:00am--10:15am**: Lightning talks
 
@@ -33,6 +34,6 @@ There will be a 3-minute moment for questions immediately afterward; in the rest
 * [Rethinking the Camera Pipeline for Computer Vision](papers/buckler.pdf).
   Mark Buckler (Cornell University), Suren Jayasuriya (CMU), and Adrian Sampson (Cornell University).
 
-**11:30--noon**: Panel and discussion?
+**11:30--noon**: Panel and discussion
 
 **noon--1:30pm**: Lunch
