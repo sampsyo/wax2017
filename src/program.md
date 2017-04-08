@@ -18,6 +18,10 @@ Be ready to introduce yourself!
 
 **10:00am--10:15am**: Lightning talks
 
+1. Ming Liu, University of Washington: [Approximating Data-plane Algorithms on the Programmable Switch](lightning/liu.pdf)
+2. Adrian Sampson, Cornell University: [QuEST, the Quality-Efficient System Tournament](lightning/sampson.pdf)
+3. Luis Ceze, University of Washington: [Towards a Wet-Dry Computer](lightning/ceze.pdf)
+
 **10:15--10:30am**: Break
 
 **10:30--11:30am**: Paper talks
