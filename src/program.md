@@ -6,6 +6,7 @@ order: 2
 ## WAX 2017 Program
 
 ### Sunday, April 9, 2017
+### Chang Le Room
 
 **9:00--9:15am**: Opening and introductions
 
