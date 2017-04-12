@@ -69,9 +69,9 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 ### Deadlines
 
-Here are the important dates:
+Here were the important dates:
 
-* <s>February 20, 2017: position papers due</s>
+* February 20, 2017: position papers due
 * March 6, 2017: notification for position papers
 * March 20, 2017: lightning-talk slides and discussion topics due
 * April 9, 2017: workshop day

@@ -8,21 +8,12 @@ order: 1
 <img src="waxlogo500.jpg" style="max-width: 120px;" class="illus">
 
 Welcome to the 2017 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
-It will be co-located with [ASPLOS 2017][].
+It was co-located with [ASPLOS 2017][].
 
-See the [workshop program][program] or the archived [call for participation][cfp] for more context.
+See the [workshop program][program] for links to papers and slides or the archived [call for participation][cfp] for more context.
 
 [cfp]: cfp.html
 [program]: program.html
-
-Here are the important dates:
-
-* <s>February 20, 2017: position papers due [via HotCRP][hotcrp]</s>
-* <s>March 6, 2017: notification for position papers</s>
-* <s>March 20, 2017: lightning-talk slides and discussion topics due</s>
-* April 9, 2017: workshop day
-
-[hotcrp]: http://www.cs.cornell.edu/conferences/wax2017/
 
 Previous instances:
 
